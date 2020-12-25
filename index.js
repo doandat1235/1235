@@ -37,5 +37,5 @@ function giftOnClick() {
 }
 
 var texts = [
-    "Người đang đọc những dòng tin này có vị trí rất đặc biệt trong tim mình. Vì vậy, hãy luôn vui vẻ vào mỗi buổi sáng khi cậu thức giấc bởi luôn có tớ nghĩ đến cậu. Chúc cậu có một mùa Giáng Sinh an lành, hạnh phúc!"
+    "Chúc mừng bạn đã có được mềnh!!! bonus thêm suất bún đậu:))"
 ]
